@@ -10,3 +10,10 @@
 .item {
   padding: 10px 0px;
 }
+.label {
+  color: aliceblue;
+}
+.percentage {
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+}
