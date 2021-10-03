@@ -1,0 +1,28 @@
+.isOnLine,
+.isOffLine {
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+.isOnLine {
+  background-color: green;
+}
+
+.isOffLine {
+  background-color: red;
+}
+
+.avatar {
+  margin-right: 10px;
+  /* padding: 5px;
+  border: 1px solid black;
+  border-radius: 50%; */
+}
+
+.name {
+  font-weight: bold;
+  font-size: 25px;
+  margin-left: 20px;
+}

@@ -1,0 +1,17 @@
+.section {
+  background-color: #dadada;
+  width: 380px;
+  margin-left: 40px;
+}
+
+.statistics {
+  width: 300px;
+  padding: 40px;
+}
+.title {
+  text-align: center;
+  background-color: white;
+  color: #3c3e3f;
+  padding: 15px 0;
+  margin: 0;
+}
